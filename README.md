@@ -18,3 +18,9 @@ The following steps will be followed to achieve the goal:
 - Evaluating our Models Using Cross Validation
 - Making Predictions
 
+## Data
+The datasets used for this project are:
+- train.csv - the training set
+- test.csv - the test set
+- data_description.txt - full description of each column
+This data can be found on the [Kaggle House Prices - Advanced Regression Techniques page](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data). 
